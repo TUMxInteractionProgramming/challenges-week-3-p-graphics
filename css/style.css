@@ -50,7 +50,7 @@ button, strong {
 
 /* CHANNELS LIST */
 
-#channels {
+#left-side {
   background-color: ;
   position: absolute;
   top: 0;
@@ -59,7 +59,7 @@ button, strong {
   height: 100%;
 }
 
-#chat {
+#right-side {
   background-color: ;
   position: absolute;
   top: 0;
